@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PracticaProgramacion\Clases.csproj" />
+    <ProjectReference Include="..\ParcialProg\Clases.csproj" />
   </ItemGroup>
 
 </Project>
